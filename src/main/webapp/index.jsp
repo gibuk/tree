@@ -8,6 +8,8 @@
 </head>
 <body>
 	<h1>홈입니다</h1>
-	<a href = "a_page.jsp">A page</a>
+	<a href = "a.jsp">A page</a>
+	<a href = "b.jsp">B page</a>
+	<a href = "b.jsp">C page</a>
 </body>
 </html>
